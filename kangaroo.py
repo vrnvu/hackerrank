@@ -18,7 +18,7 @@ def kangaroo(x1, v1, x2, v2):
         if p1 == p2:
             return 'YES'
         dn = abs(p2 - p1)
-        if dn <= d:
+        if dn = d:
             d = dn
         else:
             return 'NO'
